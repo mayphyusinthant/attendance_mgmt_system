@@ -1,12 +1,13 @@
-<h1> ✨Attendance Management System ✨</h1><br/>
-# Released Version
-[![Release](https://img.shields.io/github/v/release/mayphyusinthant/attendance_mgmt_system?include_prereleases&label=Release&style=flat-square&logo=github)](https://github.com/mayphyusinthant/attendance_mgmt_system/releases/tag/v1.0-alpha.1)
+<h1> ✨Attendance Management System ✨</h1> 
+
 
 # Languages
 [![PHP](https://img.shields.io/badge/PHP-blue)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-red.svg)](https://laravel.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-blue)](https://www.mysql.com/)
 
+# Released Version
+[![Release](https://badgen.net/github/release/mayphyusinthant/attendance_mgmt_system?include_prereleases&label=Release)]([https://github.com/mayphyusinthant/attendance_mgmt_system/releases/tag](https://github.com/mayphyusinthant/attendance_mgmt_system/releases/tag/v1.0-alpha.1))<br/>
 
 ✨This software is an attendance management software that could facilitate academic institutions to record and manage daily students' attendance efficiently.<br/>
 
