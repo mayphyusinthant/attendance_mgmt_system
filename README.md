@@ -1,6 +1,6 @@
 <h1> ✨Attendance Management System ✨</h1><br/>
-# Release Version
-[![Release](https://img.shields.io/github/release/mayphyusinthant/e-commerce-website.svg)](https://github.com/mayphyusinthant/e-commerce-website/releases)
+# Released Version
+[![Build Status](https://github.com/mayphyusinthant/e-commerce-website/actions/workflows/build.yml/badge.svg)](https://github.com/mayphyusinthant/e-commerce-website/actions/workflows/build.yml)
 
 # Languages
 [![PHP](https://img.shields.io/badge/PHP-blue)](https://www.php.net/)
