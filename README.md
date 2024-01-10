@@ -9,6 +9,9 @@
 # Released Version
 [![Release](https://badgen.net/github/release/mayphyusinthant/attendance_mgmt_system?include_prereleases&label=Release)]([https://github.com/mayphyusinthant/attendance_mgmt_system/releases/tag](https://github.com/mayphyusinthant/attendance_mgmt_system/releases/tag/v1.0-alpha.1))<br/>
 
+# License
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+
 ✨This software is an attendance management software that could facilitate academic institutions to record and manage daily students' attendance efficiently.<br/>
 
 
