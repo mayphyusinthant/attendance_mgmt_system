@@ -44,3 +44,4 @@
   &ensp;Delete and<br/>
   &ensp;View daily students' attendance<br/><br/>
 ✨Empower yourself with the tools you need to streamline and organize courses data efficiently. ✨!!!<br/>
+✨ Copyright [2024] [May Phyu Sin Thant]
