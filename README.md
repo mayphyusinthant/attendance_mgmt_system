@@ -1,6 +1,6 @@
 <h1> ✨Attendance Management System ✨</h1><br/>
 # Released Version
-[![Release](https://img.shields.io/github/v/release/mayphyusinthant/attendance_mgmt_system?include_prereleases&label=Release)](https://github.com/mayphyusinthant/attendance_mgmt_system/releases/tag/v1.0-alpha.1)
+[![Release](https://img.shields.io/github/release/mayphyusinthant/attendance_mgmt_system/all.svg?style=flat-square)](https://github.com/mayphyusinthant/attendance_mgmt_system/releases/tag/v1.0-alpha.1)
 
 # Languages
 [![PHP](https://img.shields.io/badge/PHP-blue)](https://www.php.net/)
